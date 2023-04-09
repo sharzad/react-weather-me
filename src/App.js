@@ -10,11 +10,19 @@ export default function App() {
         <footer>
           {" "}
           This project was coded by Shahrzad B.
-          <a href="#" target={"_blank"}>
+          <a
+            href="https://github.com/sharzad/react-weather-me"
+            target={"_blank"}
+            rel="noreferrer"
+          >
             Github
           </a>
           &
-          <a href="#" target={"_blank"}>
+          <a
+            href="https://github.com/sharzad/react-weather-me"
+            target={"_blank"}
+            rel="noreferrer"
+          >
             Netlify
           </a>
         </footer>
