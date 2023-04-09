@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="Bali" />
         <footer>
           {" "}
-          This project was coded by Shahrzad B.
+          This project was coded by Shahrzad B. and links for
           <a
             href="https://github.com/sharzad/react-weather-me"
             target={"_blank"}
@@ -19,12 +19,13 @@ export default function App() {
           </a>
           &
           <a
-            href="https://github.com/sharzad/react-weather-me"
+            href="https://master--luxury-seahorse-00ba48.netlify.app/"
             target={"_blank"}
             rel="noreferrer"
           >
             Netlify
           </a>
+          .
         </footer>
       </div>
     </div>
